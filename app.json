@@ -1,6 +1,6 @@
 {
-  "name": "Izumi-v3",
-  "description": "Izumi a Multi Device WhatsApp bot",
+  "name": "Traby-v3",
+  "description": "Traby md a Multi Device WhatsApp bot",
   "logo": "https://i.imgur.com/Hgiamot.jpeg",
   "keywords": ["whatsapp"],
   "repository": "https://github.com/sataniceypz/Izumi-v3",
@@ -73,7 +73,7 @@
     "MODE": {
       "description": "Bot work type",
       "required": true,
-      "value": "private"
+      "value": "public"
     }
   },
   "addons": [
